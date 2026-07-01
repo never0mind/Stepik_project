@@ -1,3 +1,5 @@
 first text
 
 edited
+pritn('firt script')
+print('edited befor commit')
