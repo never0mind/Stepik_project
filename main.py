@@ -1,0 +1,1 @@
+pritn('firt script')
