@@ -1,4 +1,2 @@
-events.log
 *.log
-!significant.log
 !significant.log
