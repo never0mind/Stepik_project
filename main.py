@@ -7,3 +7,4 @@ print('edited befor commit')
 # cahnged before ai and see what happen
 # ai intergraited
 
+# changing before stash
